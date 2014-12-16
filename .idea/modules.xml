@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Bluetooth_uart.iml" filepath="$PROJECT_DIR$/Bluetooth_uart.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mytestsimpleadapter.iml" filepath="$PROJECT_DIR$/mytestsimpleadapter.iml" />
     </modules>
   </component>
 </project>
-
